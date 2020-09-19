@@ -3,4 +3,4 @@
 
 Numerical refresh!
 
-C++/MATLAB are used to solve numerical problem
+C++/MATLAB are used 
